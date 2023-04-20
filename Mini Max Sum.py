@@ -6,7 +6,7 @@ import random
 import re
 import sys
 
-#
+#/Users/maxwellkumbong/Desktop/Hackerank/Time Conversion.py
 # Complete the 'miniMaxSum' function below.
 #
 # The function accepts INTEGER_ARRAY arr as parameter.
