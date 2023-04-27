@@ -12,4 +12,4 @@ while True:
     if query in d:
         print("%s=%s"%(query,d[query]))
     else:
-        print("Not found")
+        print("Not found")1
